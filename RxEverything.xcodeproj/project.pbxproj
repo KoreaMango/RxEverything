@@ -17,11 +17,11 @@
 		0446130F29279F540029C64F /* RxEverythingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0446130E29279F540029C64F /* RxEverythingUITests.swift */; };
 		0446131129279F540029C64F /* RxEverythingUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0446131029279F540029C64F /* RxEverythingUITestsLaunchTests.swift */; };
 		044613452927A17F0029C64F /* ThirdPartyLibraryManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 044613442927A17F0029C64F /* ThirdPartyLibraryManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		044613482927A17F0029C64F /* ThirdPartyLibraryManager.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 044613422927A17F0029C64F /* ThirdPartyLibraryManager.framework */; };
+		044613482927A17F0029C64F /* ThirdPartyLibraryManager.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 044613422927A17F0029C64F /* ThirdPartyLibraryManager.framework */; settings = {ATTRIBUTES = (Required, ); }; };
 		044613492927A17F0029C64F /* ThirdPartyLibraryManager.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 044613422927A17F0029C64F /* ThirdPartyLibraryManager.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		044613502927A1940029C64F /* RxCocoa in Frameworks */ = {isa = PBXBuildFile; productRef = 0446134F2927A1940029C64F /* RxCocoa */; };
 		044613522927A1940029C64F /* RxRelay in Frameworks */ = {isa = PBXBuildFile; productRef = 044613512927A1940029C64F /* RxRelay */; };
-		044613542927A1940029C64F /* RxSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 044613532927A1940029C64F /* RxSwift */; };
+		044613542927A1940029C64F /* RxSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 044613532927A1940029C64F /* RxSwift */; settings = {ATTRIBUTES = (Required, ); }; };
 		044613582927A1C20029C64F /* SnapKit in Frameworks */ = {isa = PBXBuildFile; productRef = 044613572927A1C20029C64F /* SnapKit */; };
 		0446135B2927A1F50029C64F /* RxTest in Frameworks */ = {isa = PBXBuildFile; productRef = 0446135A2927A1F50029C64F /* RxTest */; };
 		0446135D2927A1F80029C64F /* RxBlocking in Frameworks */ = {isa = PBXBuildFile; productRef = 0446135C2927A1F80029C64F /* RxBlocking */; };
